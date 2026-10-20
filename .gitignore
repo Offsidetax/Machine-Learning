@@ -1,0 +1,15 @@
+# Большие файлы данных и архивы
+*.csv
+*.zip
+*.tar.gz
+data/
+
+# Кэш Python и чекпоинты Jupyter
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+# Виртуальное окружение
+venv/
+.env/
+env/
